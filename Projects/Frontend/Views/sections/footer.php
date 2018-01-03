@@ -1,0 +1,16 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" src="js/adminlte.min.js"></script>
+<script type="text/javascript" src="js/bootstrap3-wysihtml5.all.min.js"></script>
+<script type="text/javascript" src="js/moment.min.js"></script>
+<script type="text/javascript" src="js/daterangepicker.js"></script>
+<script type="text/javascript" src="js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="js/dashboard.js"></script>
+<script type="text/javascript" src="js/fastclick.js"></script>
+<script type="text/javascript" src="js/jquery.knob.min.js"></script>
+<script type="text/javascript" src="js/jquery.slimscroll.min.js"></script>
+<script type="text/javascript" src="js/jquery.sparkline.min.js"></script>
+<script type="text/javascript" src="js/jquery-jvectormap-1.2.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-jvectormap-world-mill-en.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/morris.min.js"></script>
+<script type="text/javascript" src="js/raphael.min.js"></script>
